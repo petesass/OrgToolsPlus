@@ -1,12 +1,13 @@
 # OrgTools
 set of python scripts used to optimize organization of file systems
+created out of necessity.
 
 ©Petesass 2023 - Licensed under GNU GPLv3
 -----------------------------------------
 
 Run the .py files in anaconda3 by: python file/path/script.py
 
-Scipts:
+Scripts:
 
 filetypesScrubber0.1.py
 
