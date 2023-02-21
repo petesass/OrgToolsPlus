@@ -20,8 +20,8 @@ video_title = youtube_object.title
 # Step 6: Replace special characters in the title and create a file name
 filename = video_title.replace('|', '').replace('"', '').replace('/', '').replace('\\', '').replace('*', '').replace('?', '').replace('<', '').replace('>', '').replace(':', '').replace('.', '').strip() + '.mp3'
 
-# Step 7: Create a folder called "youtubeGet" in the "documents" directory if it does not already exist
-folder_path = os.path.join(os.path.expanduser('~'), 'documents', 'youtubeGet')
+# Step 7: Create a folder called "OTPYtGet.py" in the "documents" directory if it does not already exist
+folder_path = os.path.join(os.path.expanduser('~'), 'documents', 'OTPYtGet.py')
 if not os.path.exists(folder_path):
     os.makedirs(folder_path)
 
