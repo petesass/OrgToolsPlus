@@ -36,7 +36,7 @@ max_depth = int(input("Enter the number of subdirectories to search through: "))
 # create a dictionary to store the file types and their respective folder names
 file_types_dict = {}
 for file_type in file_types:
-    folder_name = file_type.replace(".", "") + "Scrubber"
+    folder_name = file_type.replace(".", "") + "OTPScrub"
     file_types_dict[file_type] = folder_name
 
 # create a nested dictionary to store the files found for each file type
@@ -47,7 +47,7 @@ for root, dirs, files in os.walk(dir_path):
     if max_depth <= 0:
         break
     max_depth -= 1
-    dirs[:] = [d for d in dirs if 'Scrubber' not in d]
+    dirs[:] = [d for d in dirs if 'OTPScrub' not in d]
     for file in files:
         for file_type, folder_name in file_types_dict.items():
             if file.endswith(file_type):
