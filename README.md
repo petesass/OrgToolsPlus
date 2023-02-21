@@ -22,4 +22,4 @@ Fun stuff:
 
 *```OTPYtGet.py```*
 
-Will prompt the user for a youtube URL to download from and then produces a .mp3 file, placing it in a new folder youtubeGet in users\user\documents\youtubeGet.
+Will prompt the user for a youtube URL to download from, produce a temporary .webm file, convert to .mp3 file, delete .webm and place generated .mp3 in a new folder in user\documents\OTPYtGet
