@@ -6,7 +6,7 @@ created out of __necessity__ and __curiosity__.
 __**©Petesass 2023 - Licensed under GNU GPLv3**__
 -----------------------------------------
 
-Run the .py files in anaconda3 by: ```python file/path/*script.py*```
+Run the .py files in anaconda3 by: ```python file/path/script.py```
 
 Scripts:
 
