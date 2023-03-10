@@ -1,4 +1,4 @@
-# OrgTools+
+# OrgToolsPlus
 set of python scripts used to optimize organization of file systems + *some fun tools!*
 
 created out of __necessity__ and __curiosity__.
