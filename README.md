@@ -25,3 +25,9 @@ Fun stuff:
 Will prompt the user for a youtube URL to download from, produce a temporary .webm file, convert to .mp3 file, delete temp .webm and place generated .mp3 in a new folder with filepath user\documents\OTPYtGet.
 
 Dependencies: ```pytube```, ```moviepy```
+
+*```OTPYtGetGUI.py```*
+
+Experimental GUI. Still in the works. Planning to add progress bar, hide/show console toggle + more.
+
+Dependencies: ```pytube```, ```moviepy``` ```tkinter```
