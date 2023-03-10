@@ -28,6 +28,6 @@ Dependencies: ```pytube```, ```moviepy```
 
 *```YTGetGUI.py```*
 
-Experimental GUI. Enter URL, select output folder, check box if you want to keep .mp4 as well, click download button. Still in the works. Planning to add progress bar, hide/show console toggle + more.
+Experimental GUI. Enter URL, open output folder (documents\youtubeGet), check box if you want to keep .mp4 as well, click download button. Still in the works. Planning to add progress bar, hide/show console toggle + more.
 
 Dependencies: ```pytube```, ```moviepy```, ```tkinter```
