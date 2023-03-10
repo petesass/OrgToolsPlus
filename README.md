@@ -26,8 +26,8 @@ Will prompt the user for a youtube URL to download from, produce a temporary .we
 
 Dependencies: ```pytube```, ```moviepy```
 
-*```OTPYtGetGUI.py```*
+*```YTGetGUI.py```*
 
-Experimental GUI. Enter URL, select output folder, click download button. Still in the works. Planning to add progress bar, hide/show console toggle + more.
+Experimental GUI. Enter URL, select output folder, check box if you want to keep .mp4 as well, click download button. Still in the works. Planning to add progress bar, hide/show console toggle + more.
 
 Dependencies: ```pytube```, ```moviepy```, ```tkinter```
