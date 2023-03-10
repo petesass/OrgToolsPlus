@@ -30,4 +30,4 @@ Dependencies: ```pytube```, ```moviepy```
 
 Experimental GUI. Still in the works. Planning to add progress bar, hide/show console toggle + more.
 
-Dependencies: ```pytube```, ```moviepy``` ```tkinter```
+Dependencies: ```pytube```, ```moviepy```, ```tkinter```
