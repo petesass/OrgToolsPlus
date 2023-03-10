@@ -28,6 +28,6 @@ Dependencies: ```pytube```, ```moviepy```
 
 *```OTPYtGetGUI.py```*
 
-Experimental GUI. Still in the works. Planning to add progress bar, hide/show console toggle + more.
+Experimental GUI. Enter URL, select output folder, click download button. Still in the works. Planning to add progress bar, hide/show console toggle + more.
 
 Dependencies: ```pytube```, ```moviepy```, ```tkinter```
