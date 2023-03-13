@@ -33,4 +33,7 @@ Experimental GUI. Enter URL, open output folder (documents\youtubeGet), check bo
 Dependencies: ```pytube```, ```moviepy```, ```tkinter```
 
 *```ascii.py```*
+
 Simple GUI with a button to prompt user for an image, then converts it to ascii art (large) and dumps to clipboard.
+
+Dependencies: ```tkinter```, ```PIL```
