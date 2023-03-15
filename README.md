@@ -36,4 +36,4 @@ Dependencies: ```pytube```, ```moviepy```, ```tkinter```
 
 Simple GUI with a button to prompt user for an image, then converts it to ascii art (large) and dumps to clipboard.
 
-Dependencies: ```tkinter```, ```PIL```
+Dependencies: ```tkinter```, ```pillow```
