@@ -37,3 +37,7 @@ Dependencies: ```pytube```, ```moviepy```, ```tkinter```
 Simple GUI with a button to prompt user for an image, then converts it to ascii art (large) and dumps to clipboard.
 
 Dependencies: ```tkinter```, ```pillow```
+
+*```email2.py```*
+
+See email2.md in email2 folder for more info.
